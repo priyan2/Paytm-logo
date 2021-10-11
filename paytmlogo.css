@@ -1,0 +1,34 @@
+
+body{
+    background-color: gainsboro;
+}
+div{
+    border: 2px solid white;
+    border-radius: 20px;
+    font-family:roboto condensed;
+    color: deepskyblue;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: white;
+    height: 130px;
+    padding: 10px 5px 10px 5px;
+    margin-top: 15%;
+    margin-left: 40%;
+    width: 150px;
+    text-align: center;
+}
+span{
+    color:darkblue;
+    font-weight: bold;
+    font-family: roboto condensed;
+}
+.line{
+    height: 10px;
+    width : 140px;
+    background: linear-gradient(deepskyblue 50%,darkblue 50%);
+    border-radius: 0px;
+    border: 0px solid gainsboro;
+    margin-left: 2px;
+    margin-bottom: 2px;
+
+}
